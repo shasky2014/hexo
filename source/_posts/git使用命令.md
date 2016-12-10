@@ -32,9 +32,9 @@ git push -u origin master
 
 3. [git更新发布](http://blog.csdn.net/dazhi_100/article/details/38851733)
 ```bash
-	# 先发布到本地的git工程
-$ git add -A
-$ git commit
-	# 发push到github,origin是github工程的别名,master是git工程的别名
-$ git push -u origin master
+# 先发布到本地的git工程
+git add -A
+git commit
+# 发push到github,origin是github工程的别名,master是git工程的别名
+git push -u origin master
 ```
